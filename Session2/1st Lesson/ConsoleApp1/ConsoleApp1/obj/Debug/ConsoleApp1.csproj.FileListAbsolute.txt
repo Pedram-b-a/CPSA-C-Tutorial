@@ -1,0 +1,7 @@
+F:\CookieStudio\C# Tutorials\2nd Session\1st Lesson\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\CookieStudio\C# Tutorials\2nd Session\1st Lesson\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\CookieStudio\C# Tutorials\2nd Session\1st Lesson\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\CookieStudio\C# Tutorials\2nd Session\1st Lesson\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+F:\CookieStudio\C# Tutorials\2nd Session\1st Lesson\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\CookieStudio\C# Tutorials\2nd Session\1st Lesson\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\CookieStudio\C# Tutorials\2nd Session\1st Lesson\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
